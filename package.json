@@ -1,5 +1,5 @@
 {
-  "name": "@tinybox/scss-linter",
+  "name": "@tinybox/scss-lint",
   "version": "0.1.0",
   "description": "",
   "main": "./bin/index.js",
