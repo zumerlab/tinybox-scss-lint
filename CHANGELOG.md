@@ -2,7 +2,14 @@
 
 All notable changes to this project will be documented in this file. 
 
-#### [v0.1.0](https://github.com/zumerlab/tinybox-scss-lint/compare/v0.1.0...v0.1.0)
+#### [v0.1.1](https://github.com/zumerlab/tinybox-scss-lint/compare/v0.1.1...v0.1.1)
+
+#### [v0.1.1](https://github.com/zumerlab/tinybox-scss-lint/compare/v0.1.0...v0.1.1)
+
+> 23 March 2024
+
+- Bumped version [`ba593b7`](https://github.com/zumerlab/tinybox-scss-lint/commit/ba593b762d3c8c55aec307904442eb9652737af8)
+- chore change name [`f04641c`](https://github.com/zumerlab/tinybox-scss-lint/commit/f04641c9795a69984e3a87d934264b9e149defe6)
 
 #### v0.1.0
 
