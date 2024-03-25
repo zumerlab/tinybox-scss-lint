@@ -1,15 +1,25 @@
 {
-  "name": "@tinybox/scss-lint",
+  "name": "@zumerbox/scss-lint",
   "version": "0.1.1",
   "description": "",
   "main": "./bin/index.js",
-  "bin": "./bin/index.js",
+  "bin": {
+    "scss-lint": "./bin/index.js"
+  },
   "scripts": {
-    "release": "npx @tinybox/release",
-    "postversion": "npx @tinybox/changelog && git add CHANGELOG.md && git commit -m \"Bumped version\" && git push --follow-tags"
+    "release": "npx @zumerbox/release",
+    "postversion": "npx @zumerbox/changelog && git add CHANGELOG.md && git commit -m \"Bumped version\" && git push --follow-tags"
   },
   "author": "Juan Martin Muda",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zumerlab/zumerbox-scss-lint.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zumerlab/zumerbox-scss-lint/issues"
+  },
+  "homepage": "https://github.com/zumerlab/zumerbox-scss-lint#readme",
   "dependencies": {
     "stylelint": "^16.2.1",
     "stylelint-config-standard-scss": "^13.0.0"
