@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. 
 
+#### [v0.1.3](https://github.com/zumerlab/zumerbox-scss-lint/compare/v0.1.2...v0.1.3)
+
+> 27 March 2024
+
+- Bumped version [`c3b97e4`](https://github.com/zumerlab/zumerbox-scss-lint/commit/c3b97e4f1eeab818fbd67faf1246dfa6b5e43548)
+- Chore: update toold and docs [`10bc521`](https://github.com/zumerlab/zumerbox-scss-lint/commit/10bc521f648f7fc03cbe4d3771933f3158cd76d3)
+
 #### [v0.1.2](https://github.com/zumerlab/zumerbox-scss-lint/compare/v0.1.1...v0.1.2)
 
 > 25 March 2024
